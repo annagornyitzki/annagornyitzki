@@ -6,4 +6,4 @@
 
 ⭐️ Interested in working in Data Science, AI/ML, and Software Engineering fields
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annagornyitzki&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annagornyitzki&show_icons=true&theme=tokyonight)
