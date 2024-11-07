@@ -1,3 +1,3 @@
 ### Hi, I'm Anna!
 
-🎓 Expected Statistics and Data Science B.S. Degree from UC Santa Barbara in June 2026
+🎓 Bachelor of Science in Statistics and Data Science, expected June 2026, University of California, Santa Barbara
