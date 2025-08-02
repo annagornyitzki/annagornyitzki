@@ -4,4 +4,4 @@
 
 📌 Located in Santa Barbara, CA and San Francisco Bay Area
 
-⭐️ Interested in working in Data Science, AI/ML, Data Engineering and Software Engineering fields
+⭐️ Interested in working in Software Engineering, Data Science, AI/ML, Data Engineering, and related fields
