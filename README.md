@@ -1,6 +1,6 @@
 ### Hi, I'm Anna!
 
-🎓 Bachelors of Science in Computer Science & Statistics and Data Science, expected June 2027, University of California - Santa Barbara
+🎓 Bachelors of Science in Computer Science, expected June 2027, University of California - Santa Barbara
 
 📌 Located in Santa Barbara, CA and San Francisco Bay Area
 
